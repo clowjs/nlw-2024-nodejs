@@ -24,6 +24,10 @@ npx prisma migrate dev
 npx prisma studio
 ```
 
+```bash
+npm i zod
+```
+
 https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping
 
 https://hoppscotch.io/
